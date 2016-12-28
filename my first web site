@@ -1,0 +1,95 @@
+<!doctype html>
+<htmml>
+<head>
+<title>My First Website</title>
+<style>
+body{
+     width:1100px;
+     background:rgb(215,225,255);
+     max-width:95%;
+     margin:auto;  
+    }
+h1{
+   float:left;
+   color:rgb(100,0,0);
+   margin:0;
+  }
+header h2{
+text-align:center;
+font-weight:normal;
+color:rgb(0,150,175);
+}
+section{
+background:rgb(255,215,215);
+padding:10px 100px;
+}
+section h2{
+text-align:center;
+color:rgb(0,100,150);
+}
+section p{
+color:rgb(0,150,50);
+}
+article{
+background:rgb(255,255,255);
+float:left;
+width:29.3%;
+margin:1%;
+padding:1%;
+height:200px;
+}
+h3{
+   
+   color:rgb(45,45,45);
+}
+articlep{
+color:rgb(75,75,75);
+}
+li{
+color:rgb(75,75,75);
+}
+footer{
+text-align:center;
+background:rgb(175,175,175);
+clear:left;
+padding:25px;
+}
+</style>
+</head>
+<body>
+<header>
+    <h1>MySite.com</h1>
+    <h2>Where you can learn cool stuff about me</h2> 
+     <h2>
+</header>
+<section>
+<h2>This is My First Web site</h2>
+<p>What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</p>
+</section>
+<article>
+<h3>My Interest</h3>
+<p>I want to explore the world ....and every thing lies in it.<p>
+</article>
+<article>
+<h3>My Hobbies</h3>
+<ul>
+ <li> eat </li>
+<li>sleep </li>
+<li> prog</li>
+<li> web dev</li>
+</ul>
+</article>
+<article>
+<h3>contact me</h3>
+<p>(123) 456 -7890</p>
+<p>muneebhaider4776@gmail.com</p>
+</article>
+<footer>THANK YOU !! :)</footer>
+
+
